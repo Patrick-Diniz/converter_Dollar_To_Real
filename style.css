@@ -17,8 +17,8 @@ body {
 
 /* General Formatting */
 .container {
-    width: 25rem;
-    height: 25rem;
+    width: 24rem;
+    height: 24rem;
     background: linear-gradient(135deg, rgba(23, 160, 130, 0.945), rgba(24, 133, 97, 0.884));
     opacity: 90%;
     border-radius: 2rem;
